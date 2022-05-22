@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Ira
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Python and SQL
 - 📫 How to reach me: irina.emukhvari@gmail.com
 - https://www.linkedin.com/in/ira-emukhvari/
